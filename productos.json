@@ -1,0 +1,24 @@
+[
+    {
+        "titulo": "Fire TV Stick",
+        "texto": "Fire TV Stick con mando por voz Alexa (incluye controles del TV), dispositivo de streaming HD",
+        "link": "https://www.amazon.es/fire-tv-stick-con-mando-por-voz-alexa/dp/B08C1KN5J2/?_encoding=UTF8&pd_rd_w=oKpOr&content-id=amzn1.sym.5789916c-763d-4211-8022-b08e9c09bed2&pf_rd_p=5789916c-763d-4211-8022-b08e9c09bed2&pf_rd_r=4B6E57PJ09WZ26DMABVF&pd_rd_wg=ibSzm&pd_rd_r=11b009aa-96cc-48ef-a74b-ca964af4e64d&ref_=pd_gw_ci_mcx_mi",
+        "imagen": "firestick.jpg",
+        "precio": "24.99€"
+    },
+    {
+        "titulo": "Echo Dot (3.ª generación)",
+        "texto": "Echo Dot (3.ª generación) - Altavoz inteligente con Alexa, tela de color antracita",
+        "link": "https://www.amazon.es/echo-dot-3-generacion-altavoz-inteligente-con-alexa-tela-de-color-antracita/dp/B07PHPXHQS/ref=d_p13n_ds_purchase_sim_1p_dp_desktop_sccl_1_4/259-2490475-1547608?pd_rd_w=ii5XG&content-id=amzn1.sym.dc5985cb-cfda-4321-9e2d-5adc044b9d37&pf_rd_p=dc5985cb-cfda-4321-9e2d-5adc044b9d37&pf_rd_r=P92FN0MGX9N353K3M50S&pd_rd_wg=PQ1cX&pd_rd_r=60855768-e82c-4137-b8e3-562fc2bbdeab&pd_rd_i=B07PHPXHQS&psc=1",
+        "imagen": "dot3.jpg",
+        "precio": "29.99€"
+    },
+    {
+        "titulo": "Cable HDMI 2.0",
+        "texto": "Cable HDMI 2.0 de alta velocidad Ultra HD, compatible con formatos 3D y con canal de retorno de audio, 1,8 m",
+        "link": "https://www.amazon.es/AmazonBasics-Cable-Velocidad-Ethernet-1-8/dp/B014I8SSD0/ref=zg-bs_934336031_sccl_1/259-2490475-1547608?pd_rd_w=CGbsF&content-id=amzn1.sym.dff1ff1f-0475-4f1c-a978-5ff0525472c8&pf_rd_p=dff1ff1f-0475-4f1c-a978-5ff0525472c8&pf_rd_r=7PPRSVJXSXJGEBMY1SHV&pd_rd_wg=znL7G&pd_rd_r=53395560-6b58-4188-b8e9-92159f47fe50&pd_rd_i=B014I8SSD0&psc=1",
+        "imagen": "hdmi.jpg",
+        "precio": "5.34€"
+    }
+    
+]

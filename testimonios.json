@@ -1,0 +1,57 @@
+[
+    {
+        "nombre": "Eduardo Luque",
+        "articulo": "Cable HDMI 2.0",
+        "texto": "Cable de buena calidad. Se presenta bien empaquetado en un caja. Recomendable",
+        "fecha": "16 Diciembre  2022"
+    },
+    {
+        "nombre": "Franciso Martín",
+        "articulo": "Fire TV Stick",
+        "texto": "Sencillo de instalar, respuesta prácticamente inmediata, apps bien optimizadas. La respuesta de las app en el Fire Stick es inmediata, con buena calidad de imagen y sonido, sin parones ni tiempos de espera por buffering.",
+        "fecha": "17 Enero 2023"
+    },
+    {
+        "nombre": "Alejandro Moreno",
+        "articulo": "Echo Dot (3.ª generación)",
+        "texto": "Como altavoz es perfecto, la conexión con Alexa funciona muy bien y el reconocimiento de voz también. Aunque personalmente acabé un poco cansada de notar un aparato escuchando todo el tiempo. Ahora lo tengo en modo sordo y sólo como altavoz.",
+        "fecha": "2 Diciembre 2022"
+    },
+    {
+        "nombre": "Marta Ruiz",
+        "articulo": "Cable HDMI 2.0",
+        "texto": "Cable HDMI 2.0: Cable bien acabado, resolución aceptada 4k a 60fps, HDR. Me compré este cable HDMI hace un tiempo y ha funcionado perfectamente hasta ahora.",
+        "fecha": "8 Enero 2023"
+    },
+    {
+        "nombre": "Isabel Márquez",
+        "articulo": "Fire TV Stick",
+        "texto": "He estado usando el Fire TV Stick durante varios días y no puedo estar más contento con mi compra. La configuración fue muy sencilla y rápida, y el dispositivo se ha conectado sin problemas a mi televisión. La calidad de la imagen es excelente y tiene una gran variedad de contenido disponible, desde películas hasta programas de televisión y juegos.",
+        "fecha": "27 Noviembre 2022"
+    },
+    {
+        "nombre": "Lucía Arco",
+        "articulo": "Cable HDMI 2.0",
+        "texto": "Cable HDMI 2.0: Me ha quedado corto el cable, justito. Sería recomendable mayor longitud.",
+        "fecha": "10 Octubre 2022"
+    },
+    {
+        "nombre": "Pedro Muñoz",
+        "articulo": "Echo Dot (3.ª generación)",
+        "texto": "Llegar a casa y poder encender las luces con Alexa, y luego poner música sin tener que buscar! Es predictiva y busca canciones que podrían gustarte, además la tv también la tengo configurada con Alexa así que directo al grano como una domótica pero en en un altavoz inteligente! Me encanta",
+        "fecha": "20 Noviembre 2022"
+    },
+    {
+        "nombre": "Rubén Pérez",
+        "articulo": "Echo Dot (3.ª generación)",
+        "texto": "La calidad de sonido se podría mejorar aunque desde la app puedes modificarla un poco. A mi me ayuda por que si tengo que poner una alarma o tengo una duda de lo que sea o quiero poner música de fondo y no tengo el móvil a mano es lo más útil",
+        "fecha": "21 Diciembre 2022"
+    },
+    {
+        "nombre": "Fernando Jáimez",
+        "articulo": "Fire TV Stick",
+        "texto": "Estos aparatos son estupendos, lo único q el mando se estropeó al poco tiempo y tuvimos q comprar otro por q te salía casi igual de caro q comprar un mando sólo, supongo q ahí estará parte del negocio.",
+        "fecha": "15 Enero 2023"
+    }
+    
+]
